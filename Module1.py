@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 10 08:50:59 2022
 
-@author: rkbab
+@author:
 """
 
 ##1. Practicing with NumPy
